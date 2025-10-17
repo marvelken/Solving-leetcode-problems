@@ -11,12 +11,6 @@
 
 //   }
 
-//   for (let j = 0; j < newArr.length; j++) {
-//     if (!newArr.includes(newArr[j])) {
-//       DisappearedArr.push(newArr[j]);
-//     }
-//   }
-
 
 //my first solution using loop, it is sub-optimal
 var findDisappearedNumbers = function(nums) {
